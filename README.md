@@ -1,0 +1,1 @@
+Ejemplo simple de un juego en JavaScript.
